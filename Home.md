@@ -2,7 +2,7 @@
 
 ## Documentation
 1. [Getting Started](Getting-started)
-    1. Building the App
+    1. [Building the app](Getting-started#building-the-app)
     1. First steps after starting for the first time
 1. Contribute to the Community
     1. Discord Server
