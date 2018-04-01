@@ -14,4 +14,14 @@ cd zerotwo
 ```
 
 ## Building steps
-First, we 
+First, we install the dependencies.
+
+```bash
+npm install
+```
+
+After the dependencies are installed, everything is set.
+We can now build the app.
+```bash
+npm run build
+```
