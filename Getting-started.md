@@ -1,4 +1,4 @@
-# Getting started
+# Building the app
 _[Back to Homepage](home)_
 
 ## Requirements
