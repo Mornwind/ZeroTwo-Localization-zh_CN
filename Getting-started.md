@@ -29,6 +29,7 @@ npm run build
 ---
 
 # First steps after starting for the first time
+_[Back to Homepage](home)_
 
 After starting the app for the first time, you will notice that the app is mostly white.
 
