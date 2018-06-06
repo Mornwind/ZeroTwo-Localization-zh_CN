@@ -1,7 +1,7 @@
 # Localization of ZeroTwo
 
 ### Thanks for your interest in maybe providing a translation for ZeroTwo.
-### When you finished your translation, either directly do a pull request which then has the translation changes in it or create a ticket and provide some sort of file which the following kind of format.
+### When you finished your translation, either directly do a pull request which then has the translation changes in it or create a ticket and provide some sort of file which has the following kind of format.
 
 ##### Disclaimer: Some of the strings could be duplicates.
 
