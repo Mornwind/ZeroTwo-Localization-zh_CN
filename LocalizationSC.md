@@ -1,13 +1,14 @@
-# Localization of ZeroTwo
+# ZeroTwo本地化
 
-### Thanks for your interest in maybe providing a translation for ZeroTwo.
-### When you finished your translation, either directly do a pull request which then has the translation changes in it or create a ticket and provide some sort of file which has the following kind of format.
+## 语言：简体中文（Simplified Chinese）
 
-##### Disclaimer: Some of the strings could be duplicates.
+### 谢谢你有兴趣为ZeroTwo提供翻译。
+### 当你的翻译完成时， 要么直接Pull Request并在里面修改翻译，或者创建一个工单并提供一些遵循如下格式的文件。
 
-##### Language: 简体中文（Simplified Chinese）
+##### 免责条款：有些字符串可能会有重复。
 
 ###### DeleteModal
+
 ```json
 {
     "cancel": "取消",
