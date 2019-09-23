@@ -74,13 +74,21 @@
     "aniList": {
       "home": {
         "activities": {
+          "badges": {
+            "anime": "动画",
+            "manga": "漫画/小说"
+          },
           "headline": "最新动态",
           "completed": "已看完 {0}",
           "plansToWatch": "准备看 {0}",
           "watchedEpisode": "已看 {0} 的第 {1} 话",
           "dropped": "放弃看 {0}",
           "rewatchedEpisode": "重温 {0} 的第 {1} 话",
-          "pausedWatching": "暂时不看 {0}"
+          "pausedWatching": "暂时不看 {0}",
+          "readChapter": "已看 {0} 的第 {1} 章",
+          "plansToRead": "准备看 {0}",
+          "rereadChapter": "重温 {0} 的第 {1} 章",
+          "pausedReading": "暂时不看 {0}"
         },
         "howToAuthenticate": {
           "header": "如何登录：",
